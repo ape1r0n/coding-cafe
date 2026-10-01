@@ -1,0 +1,72 @@
+56  mkdir
+   57  mkdir coding-cafe
+   58  mkdir coding-cafe 
+   59  cd coding-cafe
+   60  pwd
+   61  mkdir -p week02
+   62  ls
+   63  touch week02/notes.md
+   64  ls week02
+   65  history > week02/label-log.txt
+   66  history
+   67  history > week02/label01-log.txt
+   68  ls week02
+   69  label-log.txt
+   70  notes.md mkdir coding-cafe\ncd coding-cafe\nmkdir -p week02\ntouch week02/notes.md\npwd\nls
+   71  history > week02/lab01-log.txt
+   72  rm week02/label-log.txt
+   73  ls week02
+   74  rm week02/label-log.txt
+   75  44
+   76  /usr/local/bin/python3 "/Users/mishasarin/Documents/Computational Thinking /lab.py"
+   77  /usr/local/bin/python3 "/Users/mishasarin/Documents/Computational Thinking /lab.py"
+   78  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   79  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   80  /opt/anaconda3/bin/jupyter_mac.command ; exit;
+   81  python --version 
+   82  which python 
+   83  python -m pip install numpy matplotlib 
+   84  pwd\nls\nls -a\nls -l
+   85  cd ~
+   86  mkdir coding-cafe 
+   87  cd coding-cafe
+   88  week01
+   89  mkdir week01
+   90  mkdir week02
+   91  touch README.md
+   92  touch week02/notes.md
+   93  cd.. 
+   94  ls -R coding-cafe 
+   95  pwd
+   96  ls
+   97  ls -a
+   98  ls -l
+   99  mkdir coding-cafe
+  100  history 1
+  101  cp README.md README-backup.md
+  102  mv README-backup.md week01/
+  103  cd week01
+  104  mv README-backup.md old-readme.md
+  105  ls
+  106  rm old-readme.md
+  107  echo $PATH
+  108  which python3
+  109  which pip
+  110  which ls
+  111  pyton3
+  112  which pyton3
+  113  cd coding-cafe
+  114  python3 -m venv .venv
+  115  ls
+  116  ls -a
+  117  source .venv/bin/activate
+  118  which python3
+  119  pip list
+  120  pip install requests
+  121  pip list
+  122  deactivate
+  123  which python3
+  124  man ls
+  125  man man
+  126  history
+  127  python3

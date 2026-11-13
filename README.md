@@ -14,4 +14,4 @@ This repository contains my work for the FM102 Coding Café labs at Plaksha Univ
 - Lab 5: Functions, Modules, Scope and File Handling
 - Lab 6: Data Structures and CSV Files
 - Lab 7: Objects, encapsulation, and abstraction
-- Lab 8: Inheritance, polymorphism, and method overriding
+- Lab 8: The Royal Inheritance, polymorphism, and method overriding

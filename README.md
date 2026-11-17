@@ -15,3 +15,4 @@ This repository contains my work for the FM102 Coding Café labs at Plaksha Univ
 - Lab 6: Data Structures and CSV Files
 - Lab 7: Objects, encapsulation, and abstraction
 - Lab 8: The Royal Inheritance, polymorphism, and method overriding
+- Lab 9: NumPy, Pandas & Matplotlib
